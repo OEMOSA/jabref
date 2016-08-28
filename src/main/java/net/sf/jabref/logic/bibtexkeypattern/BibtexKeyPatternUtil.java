@@ -16,7 +16,7 @@ import net.sf.jabref.model.database.BibDatabase;
 import net.sf.jabref.model.entry.AuthorList;
 import net.sf.jabref.model.entry.BibEntry;
 import net.sf.jabref.model.entry.FieldName;
-import net.sf.jabref.model.search.RemoveLatexCommands;
+import net.sf.jabref.model.util.RemoveLatexCommands;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

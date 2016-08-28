@@ -1,6 +1,4 @@
-package net.sf.jabref.model.search;
-
-import net.sf.jabref.model.util.ModelStringUtil;
+package net.sf.jabref.model.util;
 
 public class RemoveLatexCommands {
 

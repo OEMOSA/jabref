@@ -3,7 +3,6 @@ package net.sf.jabref.model.search;
 import java.util.Objects;
 
 import net.sf.jabref.model.entry.BibEntry;
-import net.sf.jabref.model.search.SearchMatcher;
 import net.sf.jabref.model.search.rules.SearchRule;
 import net.sf.jabref.model.search.rules.SearchRules;
 

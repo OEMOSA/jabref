@@ -1,7 +1,7 @@
 package net.sf.jabref.logic.layout.format;
 
 import net.sf.jabref.logic.layout.LayoutFormatter;
-import net.sf.jabref.model.search.RemoveLatexCommands;
+import net.sf.jabref.model.util.RemoveLatexCommands;
 
 
 public class RemoveLatexCommandsFormatter implements LayoutFormatter {

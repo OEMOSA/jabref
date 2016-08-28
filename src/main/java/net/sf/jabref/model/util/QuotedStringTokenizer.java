@@ -1,4 +1,4 @@
-package net.sf.jabref.model.groups;
+package net.sf.jabref.model.util;
 
 /**
  * A String tokenizer that works just like StringTokenizer, but considers quoted

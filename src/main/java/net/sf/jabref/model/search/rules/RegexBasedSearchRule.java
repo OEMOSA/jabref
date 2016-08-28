@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 import java.util.regex.PatternSyntaxException;
 
 import net.sf.jabref.model.entry.BibEntry;
-import net.sf.jabref.model.search.RemoveLatexCommands;
+import net.sf.jabref.model.util.RemoveLatexCommands;
 
 /**
  * Search rule for regex-based search.

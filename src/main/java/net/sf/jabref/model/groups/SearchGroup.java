@@ -3,11 +3,12 @@ package net.sf.jabref.model.groups;
 import java.util.List;
 import java.util.Optional;
 
-import net.sf.jabref.model.search.GroupSearchQuery;
-import net.sf.jabref.model.search.rules.SearchRule;
 import net.sf.jabref.model.EntriesGroupChange;
 import net.sf.jabref.model.entry.BibEntry;
+import net.sf.jabref.model.search.GroupSearchQuery;
+import net.sf.jabref.model.search.rules.SearchRule;
 import net.sf.jabref.model.util.ModelStringUtil;
+import net.sf.jabref.model.util.QuotedStringTokenizer;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
